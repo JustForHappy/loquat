@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- @@@@@@@ 颜色库定义，理论上新标准的颜色都要从这里面选 @@@@@@@@ -->
+
+
+    <!-- 内容色值 -->
+    <color name="c_cont_a">#19191a</color>
+    <color name="c_cont_b">#656566</color>
+    <color name="c_cont_c">#7e7f80</color>
+    <color name="c_cont_d">#979899</color>
+    <color name="c_cont_e">#b1b1b3</color>
+    <color name="c_cont_f">#cacbcc</color>
+    <color name="c_cont_g">#a5a6a8</color>
+
+    <!-- 载体色值 -->
+    <color name="c_bg_line_a">#c8c9cc</color>
+    <color name="c_bg_line_b">#e1e3e5</color>
+    <color name="c_bg_line_c">#ebedf0</color>
+    <!-- 百分之50透明度的c_bg_line_c -->
+    <color name="c_bg_line_c_10">#19ebedf0</color>
+    <!-- 百分之50透明度的c_bg_line_c -->
+    <color name="c_bg_line_c_50">#80ebedf0</color>
+    <color name="c_bg_line_d">#f5f7fa</color>
+    <color name="c_bg_line_e">#ffffff</color>
+    <!-- 百分之80透明度的c_bg_line_e -->
+    <color name="c_bg_line_e_80">#cdffffff</color>
+    <color name="c_bg_line_f">#222a36</color>
+
+    <!-- 其他色值 -->
+    <color name="c_other_a">#4279d6</color>
+    <color name="c_other_b">#3479df</color>
+    <color name="c_other_b_10">#193479df</color>
+    <color name="c_other_c">#3385ff</color>
+    <color name="c_other_d">#4f86e2</color>
+    <color name="c_other_e">#70b3fd</color>
+    <color name="c_other_f">#8aa6ea</color>
+    <color name="c_other_g">#bed5eb</color>
+    <color name="c_other_h">#edf4ff</color>
+    <color name="c_other_i">#73babe</color>
+    <color name="c_other_j">#5fb873</color>
+    <color name="c_other_k">#8bc32a</color>
+    <color name="c_other_l">#f6310b</color>
+    <color name="c_other_m">#ff6056</color>
+    <!-- 百分之80透明度的c_other_m -->
+    <color name="c_other_m_80">#CCff6056</color>
+    <color name="c_other_n">#ffab1a</color>
+    <color name="c_other_o">#25262b</color>
+    <color name="c_other_p">#515155</color>
+    <color name="c_other_q">#667080</color>
+    <color name="c_other_r">#7a8799</color>
+    <color name="c_other_s">#313445</color>
+    <color name="c_other_u">#ff7e27</color>
+    <color name="c_other_v">#fd615b</color>
+    <color name="c_other_w">#50bdfb</color>
+    <color name="c_other_x">#32c5cc</color>
+    <color name="c_other_y">#7fdb42</color>
+    <color name="c_other_z">#ffb400</color>
+
+
+    <color name="c_other_t">#F27e7e80</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_grey">#33000000</color>
+
+    <!--按钮颜色常态-->
+    <color name="c_btn_bn">#3479df</color>
+    <color name="c_btn_on">#ffab27</color>
+    <color name="c_btn_rn">#ff6056</color>
+    <color name="c_btn_gn">#7cb616</color>
+    <color name="c_btn_wn">#ffffff</color>
+
+
+    <!--按钮点击-->
+    <color name="c_btn_bp">#2961b4</color>
+    <color name="c_btn_op">#e38000</color>
+    <color name="c_btn_rp">#cd3329</color>
+    <color name="c_btn_gp">#5a8513</color>
+    <color name="c_btn_wp">#e1e3e5</color>
+
+    <!--按钮置灰-->
+    <color name="c_btn_bd">#95b9ee</color>
+    <color name="c_btn_od">#ffd085</color>
+    <color name="c_btn_rd">#ffb3ae</color>
+
+
+    <!--标准库没有的颜色名称，已弃用-->
+    <color name="c_other_u_del">#FF3599ed</color>
+    <color name="c_other_v_del">#FFc149</color>
+
+</resources>
