@@ -1,1 +1,1 @@
-include ':app', ':lib_imageloader', ':lib_eventbus'
+include ':app', ':lib_imageloader', ':lib_eventbus', ':lib_cmres', ':lib_cmtools'

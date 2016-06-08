@@ -1,8 +1,6 @@
-package poca.cn.com.pocaview;
+package poca.cn.com.lib_commonres;
 
 import org.junit.Test;
-
-import java.lang.Exception;
 
 import static org.junit.Assert.*;
 
@@ -13,15 +11,5 @@ public class ExampleUnitTest {
     @Test
     public void addition_isCorrect() throws Exception {
         assertEquals(4, 2 + 2);
-        addCount();
-    }
-
-    @Test
-    public void addCount() {
-
-    }
-
-    public static void main(String [] args) {
-
     }
 }
