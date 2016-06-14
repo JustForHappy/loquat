@@ -13,7 +13,7 @@ import android.view.WindowManager;
  * @date 16/6/7:下午3:18
  * @desc
  */
-public class DeviceUtil {
+public class DeviceUtils {
 
     private static boolean deviceDataInitialize = false;
 

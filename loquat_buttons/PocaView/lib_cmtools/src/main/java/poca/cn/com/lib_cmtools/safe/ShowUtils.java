@@ -12,7 +12,7 @@ import android.widget.PopupWindow;
  * @date 16/6/8:下午2:15
  * @desc
  */
-public class ShowUtil {
+public class ShowUtils {
 
     public static final boolean showDialog(Activity activity, Dialog dialog) {
         if (dialog != null && activity != null) {
